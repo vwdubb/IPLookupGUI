@@ -1,0 +1,17 @@
+C:\Users\vwdubb\source\repos\Curl GUI\Curl GUI\bin\Debug\Curl GUI.exe.config
+C:\Users\vwdubb\source\repos\Curl GUI\Curl GUI\bin\Debug\Curl GUI.exe
+C:\Users\vwdubb\source\repos\Curl GUI\Curl GUI\bin\Debug\Curl GUI.pdb
+C:\Users\vwdubb\source\repos\Curl GUI\Curl GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vwdubb\source\repos\Curl GUI\Curl GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vwdubb\source\repos\Curl GUI\Curl GUI\obj\Debug\Curl GUI.csprojAssemblyReference.cache
+C:\Users\vwdubb\source\repos\Curl GUI\Curl GUI\obj\Debug\Curl_GUI.Properties.Resources.resources
+C:\Users\vwdubb\source\repos\Curl GUI\Curl GUI\obj\Debug\Curl GUI.csproj.GenerateResource.cache
+C:\Users\vwdubb\source\repos\Curl GUI\Curl GUI\obj\Debug\Curl GUI.csproj.CoreCompileInputs.cache
+C:\Users\vwdubb\source\repos\Curl GUI\Curl GUI\obj\Debug\Curl GUI.csproj.CopyComplete
+C:\Users\vwdubb\source\repos\Curl GUI\Curl GUI\obj\Debug\Curl GUI.exe
+C:\Users\vwdubb\source\repos\Curl GUI\Curl GUI\obj\Debug\Curl GUI.pdb
+C:\Users\vwdubb\source\repos\Curl GUI\Curl GUI\bin\Debug\Curl GUI.exe.manifest
+C:\Users\vwdubb\source\repos\Curl GUI\Curl GUI\bin\Debug\Curl GUI.application
+C:\Users\vwdubb\source\repos\Curl GUI\Curl GUI\obj\Debug\Curl GUI.exe.manifest
+C:\Users\vwdubb\source\repos\Curl GUI\Curl GUI\obj\Debug\Curl GUI.application
+C:\Users\vwdubb\source\repos\Curl GUI\Curl GUI\obj\Debug\Curl_GUI.Form1.resources
